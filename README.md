@@ -1,6 +1,7 @@
 ## Olá, eu sou o Gabriel Cunha
 
 💾 Hoje trabalho com Desenvolvimento Web/Mobile e Machine learnig.
+<br>
 🌱 Estudando React Libray
 
 
