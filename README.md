@@ -1,4 +1,9 @@
 ## Olá, eu sou o Gabriel Cunha
+
+💾 Hoje trabalho com Desenvolvimento Web/Mobile e Machine learnig.
+🌱 Estudando React Libray
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/gbcunha/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gbcunha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
