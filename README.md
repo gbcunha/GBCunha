@@ -2,7 +2,7 @@
 
 💾 Hoje trabalho com Desenvolvimento Web/Mobile e Machine learnig.
 <br>
-🌱 Estudando React lib
+🌱 Estudando ReactJS
 
 
 <div align="center">
