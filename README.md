@@ -1,8 +1,8 @@
 ## Olá, eu sou o Gabriel Cunha
 
-💾 Hoje trabalho com Desenvolvimento Web e Machine learnig.
+💾 Hoje trabalho com desenvolvimento Web e Python para análise de dados.
 <br>
-🌱 Estudando ReactJS
+🌱 Estudando Flutter
 
 
 <div align="center">
