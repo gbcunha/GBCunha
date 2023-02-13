@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Cunha
 
-💾 Hoje trabalho com Python para análise e manipulção de dados junto a Fundação Getulio Vargas.
+💾 Hoje trabalho com Python para análise e manipulação de dados junto a Fundação Getulio Vargas.
 <br>
 🌱 Estudando Flutter
 <br>
